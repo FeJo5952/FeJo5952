@@ -1,50 +1,35 @@
-# Hi there, I'm Felix John 👋  
-_Economics Grad • Aspiring ML Innovator • Lifelong Learner_
+# Hi, I'm Felix John
 
-![Profile views](https://komarev.com/ghpvc/?username=FeJo5952&color=blue)
+**Data Analyst | Exploring Machine Learning & AI**
 
----
+I'm a Data Analyst with a growing interest in machine learning, artificial intelligence, and building things that solve real-world problems.
 
-## 💡 About Me
+I enjoy exploring how data, mathematics, and software come together to create intelligent systems. My interests extend beyond traditional data analytics into AI engineering, computer vision, geospatial applications, and LLM-powered systems.
 
-🎓 Economics Honours graduate with a deep interest in data science and machine learning.  
-🔍 Currently exploring real-world datasets, predictive models, and statistical analysis.  
-💼 Working in consulting while upskilling through hands-on projects and competitions.
+I'm particularly interested in understanding how things work under the hood, experimenting with new technologies, and turning ideas into working products.
 
----
+## What I'm exploring
 
-## 🔭 What I'm Working On
+- Machine learning and deep learning
+- Large language models, RAG, and AI agents
+- Computer vision and geospatial applications
+- Data engineering and scalable AI systems
+- Open-source development and building in public
 
-- 🧠 ML projects like the **[Titanic Survival Prediction](https://github.com/FeJo5952/Titanic-Survival-Prediction)**(Check my repository)
-- 📊 Strengthening skills in Python, pandas, scikit-learn
-- 🏗️ Building a solid foundation in applied machine learning
-- 🚀 Preparing for advanced studies in analytics & tech
+## Tech stack
 
----
+Python · SQL · pandas · NumPy · scikit-learn · PyTorch · FastAPI · BigQuery · Docker · Git
 
-## 🛠️ Skills & Tools
+## GitHub Stats
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FeJo5952&show_icons=true&theme=radical)
 
+## Beyond the code
 
----
+I like learning through experimentation, documenting what I discover, and working on ideas that challenge me to learn something new.
 
-## 📈 GitHub Stats
+I'm always open to collaborating with people interested in AI, machine learning, open source, or simply building interesting things.
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=FeJo5952&show_icons=true&theme=radical)
+## Connect
 
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-✉️ Email: your.email@example.com *(optional)*
-
----
-
-> *"Turning data into insight and insight into action."*  
+[GitHub](https://github.com/FeJo5952)
